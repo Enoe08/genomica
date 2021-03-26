@@ -1,0 +1,2 @@
+# genomica
+Scripts de examen
