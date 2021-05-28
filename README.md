@@ -1,2 +1,2 @@
-# genomica
-Scripts de examen
+#  GENOMICA_PF
+
