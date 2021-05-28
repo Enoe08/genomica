@@ -1,2 +1,0 @@
-#  GENOMICA_PF
-
